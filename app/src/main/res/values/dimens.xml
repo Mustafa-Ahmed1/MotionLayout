@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="video_bar">64dp</dimen>
+    <!-- padding and margin scales -->
+    <dimen name="small_scale">8dp</dimen>
+    <dimen name="large_scale">16dp</dimen>
+    <!-- texts scales -->
+    <dimen name="medium_font_size">12sp</dimen>
+    <!-- icons scales -->
+    <dimen name="normal_icon_size">24dp</dimen>
+    <dimen name="large_icon_size">56dp</dimen>
+</resources>
